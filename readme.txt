@@ -1,5 +1,5 @@
 step 1:
-  run command: python3 -m virtualenv env
+  in project folder, run command: python3 -m virtualenv env
 
 step 2: 
   exclude virtualenv directory from git with .gitignore file
